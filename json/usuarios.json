@@ -1,0 +1,64 @@
+[
+    {
+      "entrenador": "Gary Owh",
+      "pokemons": [
+        {
+          "nombre": "venusaur",
+          "tipo": "planta",
+          "foto": "imagen/venusaur.png"
+        },
+        {
+          "nombre": "Eevee",
+          "tipo": "normal",
+          "foto": "imagen/eevee.jpg"
+        }
+      ]
+    },
+    {
+      "entrenador": "Ash Quetchu",
+      "pokemons": [
+        {
+          "nombre": "Charizard",
+          "tipo": "fuego",
+          "foto": "imagen/charizard.jpg"
+        },
+        {
+          "nombre": "Pikachu",
+          "tipo": "electrico",
+          "foto": "imagen/pikachu.jpg"
+        }
+      ]
+    },
+    {
+      "entrenador": "Misty Waterflower",
+      "pokemons": [
+        {
+          "nombre": "Starmie",
+          "tipo": "agua",
+          "foto": "imagen/starmie.png"
+        },
+        {
+          "nombre": "Psyduck",
+          "tipo": "agua",
+          "foto": "imagen/psyduck.jpg"
+        }
+      ]
+    },
+    {
+      "entrenador": "Brock Rock",
+      "pokemons": [
+        {
+          "nombre": "Onix",
+          "tipo": "roca",
+          "foto": "imagen/oni.png"
+        },
+        {
+          "nombre": "Geodude",
+          "tipo": "roca",
+          "foto": "imagen/geodude.png"
+        }
+      ]
+    }
+  ]
+
+  // locast: http://localhost/myapp/ 

@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.mainlogin, .trainers {
+    padding: 20px;
+}
+
+.inputLogin {
+    margin: 20px auto;
+    max-width: 300px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.input {
+    margin-bottom: 15px;
+}
+
+.input label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.input input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+.btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.entrenador {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.pokemons {
+    display: flex;
+}
+
+.pokemon {
+    margin-right: 10px;
+    text-align: center;
+}
+
+.pokemon img {
+    max-width: 100px;
+    display: block;
+}
+
+.planta {
+    background-color: #78C850;
+}
+
+.fuego {
+    background-color: #F08030;
+}
+
+.agua {
+    background-color: #6890F0;
+}
+
+.electrico {
+    background-color: #F8D030;
+}
+
+.roca {
+    background-color: #B8A038;
+}
+
+.normal {
+    background-color: #A8A878;
+}
